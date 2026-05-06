@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer with 7+ years of experience in building scalable, high-performance backend services using C# / .NET ecosystem.
 
-> I don't just build backends — I engineer them.
+> I don’t just build backend systems — I architect them with purpose.
 
 ## 🛠 Tech Stack:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
