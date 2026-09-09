@@ -82,6 +82,13 @@ open_to_collaborate: Open Source projects
 <h3 align="center">AI-Assisted Development</h3>
 <p align="center">
   <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&amp;logo=githubcopilot&amp;logoColor=white">
+  <img alt="Claude AI" src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&amp;logo=cursor&amp;logoColor=white">
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&amp;logoColor=white">
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="Snake eating my contribution graph" src="Contribution%20Snake.svg" width="100%">
 </p>
