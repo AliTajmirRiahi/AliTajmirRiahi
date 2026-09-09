@@ -101,3 +101,7 @@ open_to_collaborate: Open Source projects
   <a href="https://www.linkedin.com/in/ali-tajmir-riahi-532206170"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white"></a>
   <a href="https://t.me/tajriahiali"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"></a>
 </p>
+
+<p align="center">
+  <img src="footer-ember.svg" width="100%" alt="Ali TajmirRiahi">
+</p>
