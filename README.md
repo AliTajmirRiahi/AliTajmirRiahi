@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.svg" width="100%" alt="Ali TajmirRiahi — Senior .NET Back-end Engineer">
+</p>
+
 # Hi there 👋
 
 I'm a Senior Software Engineer with 7+ years of experience in building scalable, high-performance backend services using C# / .NET ecosystem.
