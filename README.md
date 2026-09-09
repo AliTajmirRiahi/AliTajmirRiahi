@@ -92,3 +92,11 @@ open_to_collaborate: Open Source projects
 <p align="center">
   <img alt="Snake eating my contribution graph" src="Contribution%20Snake.svg" width="100%">
 </p>
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:riahi.tajmir@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="https://alitajmirriahi.is-a.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ali-tajmir-riahi-532206170"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white"></a>
+</p>
