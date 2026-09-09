@@ -13,6 +13,7 @@ I'm a Senior Software Engineer with 7+ years of experience in building scalable,
 ```yaml
 name: Ali TajmirRiahi
 role: Senior Software Engineer (C# / .NET)
+website: alitajmirriahi.is-a.dev
 experience: 7+ years
 focus: Full Stack, Backend & Scalable Systems
 
@@ -32,6 +33,7 @@ open_to_collaborate: Open Source projects
 - 🤖 Using **AI tools** (Copilot, Cursor, GPT-4o) for reviews, unit tests & live API docs
 - 🐳 Shipping with **Docker**, **Swagger** & **CI/CD pipelines**
 - 🎓 B.Sc. in Software Engineering — Azad University
+- 🌐 Portfolio: [alitajmirriahi.is-a.dev](https://alitajmirriahi.is-a.dev/)
 - 💼 LinkedIn: [ali-tajmir-riahi](https://www.linkedin.com/in/ali-tajmir-riahi-532206170)
 - 📫 Reach me: [riahi.tajmir@gmail.com](mailto:riahi.tajmir@gmail.com)
 
